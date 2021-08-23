@@ -14,7 +14,7 @@ public class RoverShould {
   private Rover rover;
 
   @Before
-  public void initialise(){
+  public void initialize(){
     rover = new Rover();
   }
 
